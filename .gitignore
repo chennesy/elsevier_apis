@@ -1,0 +1,9 @@
+/input_data
+.DS_Store
+.ipynb_checkpoints/
+/output
+02_api_authors.ipynb
+03_analysis.ipynb
+._.DS_Store
+._input_data
+api_call_deprecated.ipynb
